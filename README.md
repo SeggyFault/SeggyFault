@@ -1,3 +1,3 @@
 ### Hey friend :wave:
 
-- 👯 I’m looking for a buddy to study together
+I’m a Barcelona based Web Dev :ninja:
