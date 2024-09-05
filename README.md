@@ -1,3 +1,3 @@
 ### Hey friend :wave:
 
-I’m a Barcelona based Designer and Web Dev student :ninja:
+I’m a Barcelona based Designer and Web Dev :ninja:
