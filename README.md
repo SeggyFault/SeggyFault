@@ -8,7 +8,7 @@
 ### 📌 Projects  
 - **[Accessible Portfolio Website](https://github.com/SeggyFault/SeggyFault.github.io)** – A React-based portfolio with Web Accessibility best practices
 - **[Egis Ertle](https://github.com/SeggyFault/eee)** - Redesign of the Egis Ertle Engineering website, using custom Wordpress theme and Polylang plugin
-- **WIP [Abacum](https://github.com/SeggyFault/abacum/tree/main)** - Static markup implementation of the Abacum main page using Pug (for HTML templating) and TailwindCSS (for styling)
+- **[Abacum](https://github.com/SeggyFault/abacum/tree/main)** - Static markup implementation of the Abacum main page using Pug (for HTML templating) and TailwindCSS (for styling)
 - **WIP [Quisto](https://github.com/SeggyFault/quisto-frontend)** - Revamp of the app using React.js and TailwindCSS
  
 🔗 Portfolio: https://mavych.me/  
