@@ -1,4 +1,4 @@
-# Hi there, I'm Alex 👋  
+# Hi there, I'm Sasha 👋  
 💻 Fullstack Developer | Passionate about Web Accessibility & UX  
 👀 Looking for junior frontend or fullstack roles | Open to collaborations  
 
