@@ -11,4 +11,4 @@
 - **[Abacum](https://github.com/SeggyFault/abacum/tree/main)** - Static markup implementation of the Abacum main page using Pug (for HTML templating) and TailwindCSS (for styling)
  
 🔗 Portfolio: https://mavych.me/  
-📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/omasiukevych/) | [Email](mailto:o.masiukevych@gmail.com)
+📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/omasiukevych/) | [Email](mailto:o.mavych@proton.me)
